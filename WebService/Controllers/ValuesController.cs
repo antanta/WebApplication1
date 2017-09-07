@@ -18,6 +18,9 @@ namespace WebService.Controllers
         // GET api/values/5
         public string Get(int id)
         {
+            int j = 0;
+            j--;
+
             return "value";
         }
 
