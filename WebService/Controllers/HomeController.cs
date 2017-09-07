@@ -11,7 +11,8 @@ namespace WebService.Controllers
         public ActionResult Index()
         {
             ViewBag.Title = "Home Page";
-
+            int i = 10;
+            i++;
             return View();
         }
     }
