@@ -227,7 +227,14 @@
     <TypeScriptCompile Include="scripts\app.ts" />
     <TypeScriptCompile Include="scripts\typings\del\del.d.ts" />
     <TypeScriptCompile Include="scripts\typings\glob\glob.d.ts" />
+    <TypeScriptCompile Include="scripts\typings\jquery.validation\jquery.validation.d.ts" />
+    <TypeScriptCompile Include="scripts\typings\jquery\jquery.d.ts" />
     <TypeScriptCompile Include="scripts\typings\minimatch\minimatch.d.ts" />
+    <TypeScriptCompile Include="scripts\typings\node\node-0.10.d.ts" />
+    <TypeScriptCompile Include="scripts\typings\node\node-0.11.d.ts" />
+    <TypeScriptCompile Include="scripts\typings\node\node-0.12.d.ts" />
+    <TypeScriptCompile Include="scripts\typings\node\node-0.8.8.d.ts" />
+    <TypeScriptCompile Include="scripts\typings\node\node-4.d.ts" />
     <TypeScriptCompile Include="scripts\typings\node\node.d.ts" />
   </ItemGroup>
   <ItemGroup>
