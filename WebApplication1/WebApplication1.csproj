@@ -225,6 +225,7 @@
   </ItemGroup>
   <ItemGroup>
     <TypeScriptCompile Include="scripts\app.ts" />
+    <TypeScriptCompile Include="scripts\generics.ts" />
     <TypeScriptCompile Include="scripts\typings\del\del.d.ts" />
     <TypeScriptCompile Include="scripts\typings\glob\glob.d.ts" />
     <TypeScriptCompile Include="scripts\typings\jquery.validation\jquery.validation.d.ts" />
